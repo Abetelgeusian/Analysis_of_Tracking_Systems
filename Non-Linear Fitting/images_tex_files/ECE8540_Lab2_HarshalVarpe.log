@@ -1,0 +1,413 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.8)  13 SEP 2022 11:24
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./ECE8540_Lab2_HarshalVarpe.tex
+(ECE8540_Lab2_HarshalVarpe.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(C:\Users\hvarp\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\hvarp\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\hvarp\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\hvarp\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\hvarp\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\hvarp\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\hvarp\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\hvarp\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(C:\Users\hvarp\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\hvarp\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\hvarp\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks17
+
+(C:\Users\hvarp\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+
+(C:\Users\hvarp\AppData\Local\Programs\MiKTeX\tex/latex/tabularray\tabularray.s
+ty (C:\Users\hvarp\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-02-24 L3 programming layer (loader) 
+
+(C:\Users\hvarp\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count196
+\l__pdf_internal_box=\box50
+))
+Package: tabularray 2022-07-01 v2022C Typeset tabulars and arrays with LaTeX3
+\l__tblr_a_int=\count197
+\l__tblr_c_int=\count198
+\l__tblr_r_int=\count199
+\l__tblr_d_dim=\dimen149
+\l__tblr_h_dim=\dimen150
+\l__tblr_o_dim=\dimen151
+\l__tblr_p_dim=\dimen152
+\l__tblr_q_dim=\dimen153
+\l__tblr_r_dim=\dimen154
+\l__tblr_s_dim=\dimen155
+\l__tblr_t_dim=\dimen156
+\l__tblr_v_dim=\dimen157
+\l__tblr_w_dim=\dimen158
+\l__tblr_a_box=\box51
+\l__tblr_b_box=\box52
+\l__tblr_c_box=\box53
+\l__tblr_d_box=\box54
+\g__tblr_table_count_int=\count266
+\c@rownum=\count267
+\c@colnum=\count268
+\c@rowcount=\count269
+\c@colcount=\count270
+\abovesep=\dimen159
+\belowsep=\dimen160
+\leftsep=\dimen161
+\rightsep=\dimen162
+\g_tblr_level_int=\count271
+\g__tblr_data_row_key_count_int=\count272
+\g__tblr_data_column_key_count_int=\count273
+\g__tblr_data_cell_key_count_int=\count274
+\g__tblr_array_int=\count275
+\l__tblr_key_count_int=\count276
+\l__tblr_key_quotient_int=\count277
+\l__tblr_key_quotient_two_int=\count278
+\l__tblr_key_remainder_int=\count279
+\g__tblr_data_str_value_count_int=\count280
+\rulewidth=\dimen163
+\l__tblr_strut_dp_dim=\dimen164
+\l__tblr_strut_ht_dim=\dimen165
+\g__tblr_cell_wd_dim=\dimen166
+\g__tblr_cell_ht_dim=\dimen167
+\g__tblr_cell_head_dim=\dimen168
+\g__tblr_cell_foot_dim=\dimen169
+\l__column_target_dim=\dimen170
+\l__tblr_caption_box=\box55
+\l__tblr_caption_left_box=\box56
+\l__tblr_row_head_box=\box57
+\l__tblr_row_foot_box=\box58
+\l__tblr_row_head_foot_dim=\dimen171
+\tablewidth=\dimen172
+\l__tblr_table_firsthead_box=\box59
+\l__tblr_table_middlehead_box=\box60
+\l__tblr_table_lasthead_box=\box61
+\l__tblr_table_firstfoot_box=\box62
+\l__tblr_table_middlefoot_box=\box63
+\l__tblr_table_lastfoot_box=\box64
+\l__tblr_remain_height_dim=\dimen173
+\l__tblr_long_from_int=\count281
+\l__tblr_long_to_int=\count282
+\l__tblr_curr_i_int=\count283
+\l__tblr_prev_i_int=\count284
+\l__tblr_table_page_int=\count285
+\l__tblr_table_head_box=\box65
+\l__tblr_table_foot_box=\box66
+\l__tblr_table_head_foot_dim=\dimen174
+\l__tblr_table_head_body_foot_dim=\dimen175
+\l__tblr_table_box=\box67
+\l__tblr_table_hlines_box=\box68
+\l__tblr_hline_box=\box69
+\l__tblr_row_box=\box70
+\l__tblr_col_o_wd_dim=\dimen176
+\l__tblr_col_b_wd_dim=\dimen177
+\l__tblr_hline_leftskip_dim=\dimen178
+\l__tblr_hline_rightskip_dim=\dimen179
+\l__tblr_row_ht_dim=\dimen180
+\l__tblr_row_dp_dim=\dimen181
+\l__tblr_row_abovesep_dim=\dimen182
+\l__tblr_row_belowsep_dim=\dimen183
+\l__tblr_row_vlines_box=\box71
+\l__tblr_vline_box=\box72
+\l__tblr_cell_box=\box73
+\l__row_upper_dim=\dimen184
+\l__row_lower_dim=\dimen185
+\l__row_vpace_dim=\dimen186
+\l__tblr_vline_aboveskip_dim=\dimen187
+\l__tblr_vline_belowskip_dim=\dimen188
+\l__tblr_cell_wd_dim=\dimen189
+\l__tblr_cell_ht_dim=\dimen190
+\l__tblr_diag_box=\box74
+)
+(C:\Users\hvarp\AppData\Local\Programs\MiKTeX\tex/latex/tools\afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks18
+\AP@partial=\box75
+\AP@footins=\box76
+)
+(ECE8540_Lab2_HarshalVarpe.aux)
+\openout1 = `ECE8540_Lab2_HarshalVarpe.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+
+(C:\Users\hvarp\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count286
+\scratchdimen=\dimen191
+\scratchbox=\box77
+\nofMPsegments=\count287
+\nofMParguments=\count288
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count289
+\MPscratchDim=\dimen192
+\MPnumerator=\count290
+\makeMPintoPDFobject=\count291
+\everyMPtoPDFconversion=\toks20
+)
+(C:\Users\hvarp\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\hvarp\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(85.35826pt, 614.21436pt, 95.39737pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=614.21436pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+[1
+
+{C:/Users/hvarp/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 32.
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+[1]
+<Code.png, id=18, 499.11469pt x 325.215pt>
+File: Code.png Graphic file (type png)
+<use Code.png>
+Package pdftex.def Info: Code.png  used on input line 70.
+(pdftex.def)             Requested size: 499.11345pt x 325.2142pt.
+
+Overfull \hbox (69.10883pt too wide) in paragraph at lines 70--71
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+
+ []
+
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+[2 <./Code.png>]
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
+ []
+
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+Package epstopdf Info: Source file: <Log_A.eps>
+(epstopdf)                    date: 2022-09-12 22:41:13
+(epstopdf)                    size: 85945 bytes
+(epstopdf)             Output file: <Log_A-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-09-13 10:32:18
+(epstopdf)                    size: 30816 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=Log_A-eps-converted-
+to.pdf Log_A.eps>
+(epstopdf)             \includegraphics on input line 154.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: miktex-pdftex.exe (file ./Log_A-eps-converted-to.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<Log_A-eps-converted-to.pdf, id=24, 421.575pt x 316.18124pt>
+File: Log_A-eps-converted-to.pdf Graphic file (type pdf)
+<use Log_A-eps-converted-to.pdf>
+Package pdftex.def Info: Log_A-eps-converted-to.pdf  used on input line 154.
+(pdftex.def)             Requested size: 316.18047pt x 237.13535pt.
+Package epstopdf Info: Source file: <Log_B.eps>
+(epstopdf)                    date: 2022-09-12 22:40:40
+(epstopdf)                    size: 85866 bytes
+(epstopdf)             Output file: <Log_B-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-09-13 10:33:43
+(epstopdf)                    size: 31106 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=Log_B-eps-converted-
+to.pdf Log_B.eps>
+(epstopdf)             \includegraphics on input line 157.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: miktex-pdftex.exe (file ./Log_B-eps-converted-to.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<Log_B-eps-converted-to.pdf, id=25, 421.575pt x 316.18124pt>
+File: Log_B-eps-converted-to.pdf Graphic file (type pdf)
+<use Log_B-eps-converted-to.pdf>
+Package pdftex.def Info: Log_B-eps-converted-to.pdf  used on input line 157.
+(pdftex.def)             Requested size: 316.18047pt x 237.13535pt.
+[3] [4 <./Log_A-eps-converted-to.pdf> <./Log_B-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Log_C.eps>
+(epstopdf)                    date: 2022-09-12 22:38:15
+(epstopdf)                    size: 85165 bytes
+(epstopdf)             Output file: <Log_C-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-09-13 10:33:44
+(epstopdf)                    size: 30925 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=Log_C-eps-converted-
+to.pdf Log_C.eps>
+(epstopdf)             \includegraphics on input line 170.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: miktex-pdftex.exe (file ./Log_C-eps-converted-to.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<Log_C-eps-converted-to.pdf, id=48, 421.575pt x 316.18124pt>
+File: Log_C-eps-converted-to.pdf Graphic file (type pdf)
+<use Log_C-eps-converted-to.pdf>
+Package pdftex.def Info: Log_C-eps-converted-to.pdf  used on input line 170.
+(pdftex.def)             Requested size: 316.18047pt x 237.13535pt.
+[5
+
+ <./Log_C-eps-converted-to.pdf>] (ECE8540_Lab2_HarshalVarpe.aux) ) 
+Here is how much of TeX's memory you used:
+ 3856 strings out of 478582
+ 83156 string characters out of 2844345
+ 412152 words of memory out of 3000000
+ 22058 multiletter control sequences out of 15000+600000
+ 474061 words of font info for 41 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,9n,100p,981b,620s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Users/hva
+rp/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/
+Users/hvarp/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10
+.pfb><C:/Users/hvarp/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmmi10.pfb><C:/Users/hvarp/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmmi7.pfb><C:/Users/hvarp/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmr10.pfb><C:/Users/hvarp/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/hvarp/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/hvarp/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/hvarp/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/hvarp/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on ECE8540_Lab2_HarshalVarpe.pdf (6 pages, 228869 bytes).
+PDF statistics:
+ 101 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+
