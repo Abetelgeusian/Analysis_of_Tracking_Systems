@@ -1,4 +1,4 @@
-# Analysis_of_Tracking_Systems
+# Analysis of Tracking Systems
 
 This repository contains implmentation of common tracking algorithms.
 Each folder contains the homonymous algorithm with its implementation in MATLAB and a report. 
